@@ -99,15 +99,15 @@ Python · C++ · SQL
 ### 🎓 Publications
 
 - **A Unified Deep Learning Approach for the Segmentation of Breast Masses and Calcifications**  
-  MERCon 2025 · 📄 [IEEE](YOUR_IEEE_LINK)
+  MERCon 2025 · 📄 [IEEE](https://ieeexplore.ieee.org/document/11217096)
 
 - **Multi View Mammogram Analysis with Segmented Breast Masses and Calcifications for BI-RADS Classification**  
-  ICARC 2026 · 📄 [IEEE](YOUR_IEEE_LINK)
+  ICARC 2026 · 📄 [IEEE](https://ieeexplore.ieee.org/document/11453577)
 
 - **Dual-Path Enhancement Framework for Masses and Calcifications in Mammograms**  
-  TENCON 2025 · 📄 [IEEE](YOUR_IEEE_LINK)
+  TENCON 2025 · 📄 [IEEE](https://ieeexplore.ieee.org/document/11375512)
 
-🎓 [View all publications on Google Scholar](YOUR_GOOGLE_SCHOLAR_LINK)
+🎓 [View all publications on Google Scholar](https://scholar.google.com/citations?user=WRrjwsoAAAAJ&hl=en)
 
 ### 🏆 Recognition
 
@@ -119,6 +119,6 @@ Python · C++ · SQL
 
 ## 🔗 Connect
 
-💼 [LinkedIn](YOUR_LINKEDIN_URL)  
-🎓 [Google Scholar](YOUR_GOOGLE_SCHOLAR_LINK)  
+💼 [LinkedIn](https://www.linkedin.com/in/tirush-dumil/)  
+🎓 [Google Scholar](https://scholar.google.com/citations?user=WRrjwsoAAAAJ&hl=en)  
 ✉️ **tirushdumil99@gmail.com**
