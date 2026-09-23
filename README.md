@@ -12,7 +12,7 @@ I’m particularly interested in building AI systems that move beyond standalone
 
 ## 🚀 Featured Projects
 
-### 🛰️ ResQ-Agent — Neuro-Symbolic Disaster Response AI
+### 🚁 ResQ-Agent — Neuro-Symbolic Disaster Response AI
 
 An AI system that combines computer vision, deterministic reasoning, and LLM-based interaction to analyze drone imagery and support disaster-response queries.
 
@@ -27,7 +27,7 @@ An AI system that combines computer vision, deterministic reasoning, and LLM-bas
 
 ---
 
-### 🩻 Unified Multi-View Mammogram Analysis
+### 🩺 Unified Multi-View Mammogram Analysis
 
 A dual-path deep learning system for multi-view mammogram analysis, combining image preprocessing, segmentation, feature extraction, and classification.
 
